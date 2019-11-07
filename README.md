@@ -28,7 +28,7 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
   * house the data in a digestible format
 
 
-### Data
+## Data
 
 * Environmental Variables
       * Country
