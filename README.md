@@ -18,12 +18,12 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
 ### Data
 
 * Environmental Variables
-      Country
-      Accessibility_to_cities: 
-      Elevation
-      Aspect: orientation of slope
-      Slope
-      Cropland cover
+      *Country
+      *Accessibility_to_cities: 
+      *Elevation
+      *Aspect: orientation of slope
+      *Slope
+      *Cropland cover
       Tree canopy cover
       Temp max of the warmest month
       Rain seasonality/ other train data
