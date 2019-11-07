@@ -15,10 +15,15 @@ A Look at the Relationship between Environments, Economies, and Human Developmen
 ## The Process & Code Highlights
 As a start, we will look at two basic tennis movements: forehand and backhand. In order to acheieve this, we will create a convulutional neural network (CNN). 
 
-## Tools Used
+## Data
 
-* Deep/Machine Learning: Tensorflow, Keras, ResNet 50 (Residual Networks), SKLearn
-  * achieve image/video classification
+* Environmental Variables
+   * Country
+   * Accessibility_to_cities: 
+   * Elevation
+   * Aspect: orientation of slope
+   * Slope
+   * Cropland cover
 * Python & Flask
   * run the demo on a web page
 * Pandas & Tableau 
@@ -30,13 +35,8 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
 
 ## Data
 
-* Environmental Variables
-      * Country
-      * Accessibility_to_cities: 
-      * Elevation
-      * Aspect: orientation of slope
-      * Slope
-      * Cropland cover
+
+      
       
 * World Happiness
       Country
