@@ -12,9 +12,6 @@ A Look at the Relationship between Environments, Economies, and Human Developmen
 *Build “Utopia”
 
 
-## The Process & Code Highlights
-As a start, we will look at two basic tennis movements: forehand and backhand. In order to acheieve this, we will create a convulutional neural network (CNN). 
-
 ## Data
 
 * Environmental Variables
@@ -24,28 +21,15 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
    * Aspect: orientation of slope
    * Slope
    * Cropland cover
-* Python & Flask
-  * run the demo on a web page
-* Pandas & Tableau 
-  * export data in Excel to visualize trend results
-  * this can help improve the code overtime to see variances between players/movements
-* HTML/CSS/Boostrap
-  * house the data in a digestible format
-
-
-## Data
-
-
-      
-      
-* World Happiness
-      Country
-      Happiness Score: Based on the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."
-      Generosity: 
-      Dystopia Residual:
-      Trust (Government Corruption): 
-      Family: 
-      Health (Life Expectancy):
+   
+ * World Happiness
+    Country
+    Happiness Score: Based on the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."
+    Generosity: 
+    Dystopia Residual:
+    Trust (Government Corruption): 
+    Family: 
+    Health (Life Expectancy):
 
 * Human Development Index (HDI)
       Country
