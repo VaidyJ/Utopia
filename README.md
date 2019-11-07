@@ -20,16 +20,11 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
 * Environmental Variables
       * Country
       * Accessibility_to_cities: 
-      *Elevation
-      *Aspect: orientation of slope
-      *Slope
-      *Cropland cover
-      Tree canopy cover
-      Temp max of the warmest month
-      Rain seasonality/ other train data
-      Temp – diurnal range
-      Isothermality
-
+      * Elevation
+      * Aspect: orientation of slope
+      * Slope
+      * Cropland cover
+      
 * World Happiness
       Country
       Happiness Score: Based on the question: "How would you rate your happiness on a scale of 0 to 10 where 10 is the happiest."
