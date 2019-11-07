@@ -45,7 +45,7 @@ A Look at the Relationship between Environments, Economies, and Human Developmen
 
 
 
-###  Utopia
+##  Utopia
 
 *How to build a happy colony 
 *Build a model to “learn” with existing data
@@ -53,7 +53,7 @@ A Look at the Relationship between Environments, Economies, and Human Developmen
 *Predict Happiness score
 *What comprises happiest colony?
 
-### Utopia - How?
+## Utopia - How?
 
 *Identify correlation between Happiness and other features
 *Choose the features at extreme ends of correlation
