@@ -1,16 +1,14 @@
 # Utopia
 
-
 ## Background
 
 A Look at the Relationship between Environments, Economies, and Human Development of countries across the world.
 
 ## Goal
 
-*Validate or nullify perceived relationship between Happiness, Human Development and Environment
-*Do environmental variables affect social and economic features
-*Build “Utopia”
-
+* Validate or nullify perceived relationship between Happiness, Human Development and Environment
+* Do environmental variables affect social and economic features
+* Build “Utopia”
 
 ## Data
 
@@ -32,34 +30,31 @@ A Look at the Relationship between Environments, Economies, and Human Developmen
   * Health (Life Expectancy)
 
 * Human Development Index (HDI)
-    * Country
-    * HDI score (0-1)
-    * GNI (Gross National Income)
-    * Population
-    * Internet users
-    * Life expectancy
-    * Dependency ratios
-    * Inequality datasets
-    * Deaths due to Tuberculosis (per 100,000 people)
+  * Country
+  * HDI score (0-1)
+  * GNI (Gross National Income)
+  * Population
+  * Internet users
+  * Life expectancy
+  * Dependency ratios
+  * Inequality datasets
+  * Deaths due to Tuberculosis (per 100,000 people)
   
-
-
-
 ##  Utopia
 
-*How to build a happy colony 
-*Build a model to “learn” with existing data
-*Create colonies with specific features
-*Predict Happiness score
-*What comprises happiest colony?
+* How to build a happy colony 
+* Build a model to “learn” with existing data
+* Create colonies with specific features
+* Predict Happiness score
+* What comprises happiest colony?
 
 ## Utopia - How?
 
-*Identify correlation between Happiness and other features
-*Choose the features at extreme ends of correlation
-*Clean up/fix nulls
-*Build a model based on above features
-*Create a colony
+* Identify correlation between Happiness and other features
+* Choose the features at extreme ends of correlation
+* Clean up/fix nulls
+* Build a model based on above features
+* Create a colony
 
 
 ## Demo
