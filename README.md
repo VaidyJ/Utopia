@@ -18,8 +18,8 @@ As a start, we will look at two basic tennis movements: forehand and backhand. I
 ### Data
 
 * Environmental Variables
-      *Country
-      *Accessibility_to_cities: 
+      * Country
+      * Accessibility_to_cities: 
       *Elevation
       *Aspect: orientation of slope
       *Slope
